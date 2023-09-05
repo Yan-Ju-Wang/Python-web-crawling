@@ -1,0 +1,5 @@
+Anaconda 官網
+https://www.anaconda.com/
+
+Python 官網
+https://www.python.org/
